@@ -1,0 +1,5 @@
+com\evry\ems\dao\DepartmentDao.class
+com\evry\ems\Management.class
+com\evry\ems\model\Department.class
+com\evry\ems\util\EntityManagerUtil.class
+com\evry\ems\model\Employee.class
